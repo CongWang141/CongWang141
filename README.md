@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cong Wang
 - 👀 I’m interested in machine learning, empirical asset pricing, macro finance
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on aperitivo!
 
 
 <!---
