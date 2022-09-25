@@ -6,8 +6,8 @@
 - 💞️ I’m looking to collaborate on aperitivo!
 
 ### Connect me with:
-[<img height="32" width="32" src="file:///D:/Chrome%E4%B8%8B%E8%BD%BD%E5%86%85%E5%AE%B9/twitter.svg" />][website]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][website]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
