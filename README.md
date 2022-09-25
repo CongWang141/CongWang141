@@ -8,7 +8,6 @@
 ### Connect me with:
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[YOUTUBE].svg" />][website]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />][twitter]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconc/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 <br />
