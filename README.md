@@ -22,7 +22,6 @@
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/r.svg" />][r]
 
 
 
