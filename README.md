@@ -6,11 +6,12 @@
 - 💞️ I’m looking to collaborate on aperitivo!
 
 ### Connect me with:
-[<img height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/r.svg" />][r]
+[<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
+[<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/r.svg" />][r]
 
+### Languages and Tools
 
 
 <br />
