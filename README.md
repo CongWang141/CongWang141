@@ -11,7 +11,9 @@
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/r.svg" />][r]
 
-### Languages and Tools
+### Languages and Tools:
+[<img align="left" height="26px" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg" />][website]
+
 
 
 <br />
