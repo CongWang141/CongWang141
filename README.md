@@ -6,8 +6,12 @@
 - 💞️ I’m looking to collaborate on aperitivo!
 
 ### Connect me with:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][website]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/web.svg" />][website]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/rstudio.svg" />][r]
+
+
 
 <br />
 <br />
