@@ -11,6 +11,8 @@
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/r.svg" />][r]
 
+### Languages and Tools
+[<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e823517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
 
 
