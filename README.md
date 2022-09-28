@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on aperitivo!
 
 ### Languages and Tools
-[<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/9967ff963a55d73bded346dc749c6401e06417bf/topics/r/r.png" />]
+[<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/9967ff963a55d73bded346dc749c6401e06417bf/topics/r/r.png" />][]
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />]
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -16,16 +16,10 @@
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" />]
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/9967ff963a55d73bded346dc749c6401e06417bf/topics/hugo/hugo.png" />]
 
-
-
 ### Connect me with:
 [<img align="left" height="26px" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img align="left" height="26px" width="26px" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-
-
-
-
 
 <br />
 <br />
