@@ -1,8 +1,8 @@
 ## Hi there, I am Cong Wang -- A phd student in Economics
 
 ### Not only satisfied with Economics, I am happy to do something with ✨ Data Science ✨ 
-- 👋 Reach me out, would love to reply all kinds of questions
-- 👀 I’m interested in machine learning, empirical asset pricing, macro finance
+- 👋 Reach me out, would love to reply to all kinds of questions
+- 👀 I’m interested in applied econometrics, causal inference, machine learning
 - 💞️ I’m looking to collaborate on aperitivo!
 
 ### Languages and Tools
