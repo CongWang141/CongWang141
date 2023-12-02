@@ -24,7 +24,7 @@
 <br />
 <br />
 
-[website]: https://congwang.org
+[website]: https://congwang141.github.io
 [twitter]: https://twitter.com/hopsss131
 [linkedin]: https://www.linkedin.com/in/cong-wang131
 [r]: https://rpubs.com/CongWang141
